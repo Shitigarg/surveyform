@@ -67,6 +67,12 @@ h1 {
   border: 1px solid #ced4da;
   border-radius: 0.25rem;
 }
+
+#comments{
+    width:100%;
+    min-height: 120px;
+}
+
 .submit-button{
     display:block;
     width: 100%;
